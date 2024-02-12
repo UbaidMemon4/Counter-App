@@ -14,7 +14,7 @@ const App = () => {
 
   return (
     <div className="main">
-      <h1 className="heading">Welcome To React</h1>
+      <h1 className="heading">Counter App</h1>
       <div className="counter">
         <button className="but" onClick={() => counterFunction(-1)}>
           -
