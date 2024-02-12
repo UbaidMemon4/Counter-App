@@ -38,20 +38,20 @@
 }
 @media only screen and (min-width: 1024px) and (max-width: 1440px) {
   .main {
-    margin-top: 12%;
+    margin-top: 8%;
   }
   .heading {
-    font-size: 70px;
+    font-size: 60px;
   }
   .but {
-    padding: 80px;
+    padding: 70px;
     font-size: 40px;
   }
   .head {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-    font-size: 70px;
+    font-size: 60px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
